@@ -265,3 +265,8 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+.phone:hover
+{
+  background-color: #000008;
+  opacity: 0;
+}
